@@ -35,14 +35,15 @@ a {
     background-color: #1f2937;
     color: white;
     display: flex;
+    align-items: center;
+    justify-content: space-between;
 }
 
 .fotarda {
-    height: 296px;
-    width: 453px;
-    margin: 20px;
-    margin-right: 0px;
-    flex: 1;
+    height: 290px;
+    width: 540px;
+    margin: 44px;
+    margin-right: 151px;
 }
 
 .text1 {
